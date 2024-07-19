@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_d_es",
+  "info": {
+    "displayName": "e",
+    "icon": "briefcase"
+  },
+  "options": {},
+  "attributes": {
+    "Ed": {
+      "type": "string"
+    }
+  }
+}
